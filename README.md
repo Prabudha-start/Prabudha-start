@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Turning raw data into business decisions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Python+%7C+SQL+%7C+Power+BI;Retail+%26+Pricing+Analytics;Business+Intelligence+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Power+BI;Retail+%26+Pricing+Analytics;Business+Intelligence+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
