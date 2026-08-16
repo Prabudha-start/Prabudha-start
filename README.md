@@ -12,7 +12,7 @@
 - 🛠️ Comfortable across the full analytics stack: data cleaning → SQL queries → Python analysis → Power BI dashboards
 - 🌱 Always exploring new ways to turn messy business data into a clear story
 - 💬 Ask me about retail analytics, pricing models, or dashboard design
-- 📫 Reach me at: *(add your email here)*
+- 📫 Reach me at: harsh.prabu@gmail.com
 
 ---
 
@@ -28,7 +28,13 @@
 </p>
 
 ---
+### ✍️ Writing
+I also write about data & analytics — check out my article: https://medium.com/@wordsandlogic/beyond-the-resume-6b045b48ccb6?sharedUserId=wordsandlogic
 
+<!-- Alternative: as a badge, place this near your Tech Stack badges <a href="your-medium-article-url"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a> -->
+
+
+---
 ### 📌 Featured Project
 
 **[Retail Pricing Intelligence](https://github.com/Prabudha-start/Retail-Pricing-Intelligence)**
