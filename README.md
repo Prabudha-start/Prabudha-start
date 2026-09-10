@@ -1,56 +1,67 @@
-<h1 align="center">Hi 👋, I'm Prabudha D</h1>
-<h3 align="center">Data Analyst | Turning raw data into business decisions</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Power+BI;Retail+%26+Pricing+Analytics;Business+Intelligence+Enthusiast" alt="Typing SVG" />
+  <img src="assets/banner.png" width="100%" alt="Prabudha D. — Marketing Analyst to Data & Business Analytics" />
 </p>
 
----
+<div align="center">
 
-### 🚀 About Me
-- 🔭 Currently building **Retail Pricing Intelligence**, an end-to-end analytics project covering pricing strategy, revenue insight, and demand patterns
-- 🛠️ Comfortable across the full analytics stack: data cleaning → SQL queries → Python analysis → Power BI dashboards
-- 🌱 Always exploring new ways to turn messy business data into a clear story
-- 💬 Ask me about retail analytics, pricing models, or dashboard design
-- 📫 Reach me at: harsh.prabu@gmail.com
+# Prabudha D.
+### Marketing Analyst → Data & Business Analytics
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=E8A33D&center=true&vCenter=true&width=560&lines=Turning+campaign+data+into+decisions;8%2B+years+in+marketing+%7C+now+in+analytics;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Pandas" alt="Typing SVG" />
 
-### 🧰 Tech Stack
+</div>
+
+<br>
+
+> **The pivot, in one line:** 8+ years writing the story *around* a campaign — now I build the analysis that decides which campaign gets funded next.
+
+<br>
+
+### `01` — Currently Building
+
+```
+PROJECT      Content Performance Intelligence
+STATUS       Active
+STACK        Python · Pandas · Power BI · Excel
+SCOPE        650-record synthetic B2B SaaS content dataset
+QUESTION     What content should a company make more of — and why?
+```
+
+<br>
+
+### `02` — Featured Work
+
+**[Retail Pricing Intelligence →](https://github.com/Prabudha-start/Retail-Pricing-Intelligence)**
+Pricing trend & margin-opportunity analysis. Data cleaning → SQL → Python → interactive Power BI dashboard.
+
+**[Revenue Leakage Analysis →](https://github.com/Prabudha-start)**
+Diagnosing where revenue quietly disappears across a funnel, and what to fix first.
+
+<br>
+
+### `03` — Toolkit
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-E8A33D?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-E8A33D?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power_BI-E8A33D?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-E8A33D?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-E8A33D?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-E8A33D?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
----
-### ✍️ Writing
-I also write about data & analytics — check out my article: https://medium.com/@wordsandlogic/beyond-the-resume-6b045b48ccb6?sharedUserId=wordsandlogic
+<sub>Also fluent in: content strategy · SEO · HubSpot · Google Analytics · Meta & Google Ads</sub>
 
-<!-- Alternative: as a badge, place this near your Tech Stack badges <a href="your-medium-article-url"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a> -->
+<br>
 
+### `04` — Writing
 
----
-### 📌 Featured Project
+I write reflective essays on workplace experience under **[Beyond the Resume](https://medium.com/@wordsandlogic/beyond-the-resume-6b045b48ccb6)** — where marketing craft meets honest career reflection.
 
-**[Retail Pricing Intelligence](https://github.com/Prabudha-start/Retail-Pricing-Intelligence)**
-End-to-end retail pricing & business analytics project using Python, SQL, and Power BI — covering data cleaning, exploratory analysis, and interactive dashboards to surface pricing trends and opportunities.
+<br>
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+`harsh.prabu@gmail.com` · [LinkedIn](https://linkedin.com/in/prabudha-darabare/) · [Medium](https://medium.com/@wordsandlogic)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prabudha-start&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabudha-start&layout=compact&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prabudha-start&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+</div>
