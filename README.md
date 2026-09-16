@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets:banner.png" width="100%" alt="Prabudha D. — Marketing Analyst to Data & Business Analytics" />
+  <img src="banner.png" width="100%" alt="Prabudha D. — Marketing Analyst to Data & Business Analytics" />
 </p>
 
 <div align="center">
