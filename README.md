@@ -16,20 +16,20 @@
 
 ## The short version
 
-I spent eight years writing the words that sell things: landing pages, SEO briefs, ad copy, brand voice guides, mostly for interior design and construction companies. I got very good at explaining why a campaign should work.
+I spent eight years writing the words that sell things: landing pages, SEO briefs, ad copy, brand voice guides, worked with e-com companies, agencies, interior design company, ed-tech & start-ups. I got very good at explaining why a campaign should work.
 
-What I was never asked to do was prove it worked, with the actual numbers. So a while back I started fixing that gap myself: Python, SQL, Power BI, and the habit of asking "where's the data for that" before I trust a marketing claim, including my own past ones.
+What I was never asked to do was prove it worked, with the actual numbers. So a while back I started fixing that gap myself through Python, SQL, Power BI, and the habit of asking "where's the data for that" before I trust a marketing claim, including my own past ones.
 
 I'm not rebranding as someone I'm not. I still think in headlines and hooks. I've just added a second toolkit for testing whether those headlines are backed by anything real.
 
-**Right now I'm looking for:** Marketing Analyst, Marketing Strategist, or Business Analyst roles in Bengaluru, where the content-and-numbers combination is actually the point, not a stretch.
+**Right now I'm looking for:** Marketing Analyst, Marketing Strategist, or Business Analyst roles in Bengaluru or remote, where the content and numbers combine to actually make a difference in decisions and the outcome.
 
 <br>
 
 ## What I'm building right now
 
 **Content Performance Intelligence**
-A 650-record synthetic B2B SaaS content dataset, built to answer one question: what content should a company actually make more of, and why. Working through it in Python, Pandas, and Power BI.
+- A 650-record synthetic B2B SaaS content dataset, and the analysis should answer what content a company should actually make more of, and why. Working through it in Python, Pandas, and Power BI.
 
 <br>
 
@@ -38,7 +38,7 @@ A 650-record synthetic B2B SaaS content dataset, built to answer one question: w
 **[Retail Pricing Intelligence](https://github.com/Prabudha-start/Retail-Pricing-Intelligence)**
 Took messy retail pricing data, cleaned it, ran it through SQL and Python, and built an interactive Power BI dashboard to flag margin opportunities the raw spreadsheet was hiding.
 
-**Revenue Leakage Analysis**
+**[Revenue Leakage Analysis](https://github.com/Prabudha-start/Revenue-Leakage-Analysis)**
 Traced where revenue quietly disappears across a sales funnel and ranked what to fix first. *(Link coming once the repo is public. Ping me if you want an early look.)*
 
 <br>
@@ -99,10 +99,10 @@ B.E. in Chemical Engineering from M.S. Ramaiah Institute of Technology. Currentl
 <br>
 
 <p align="center">
-  If you're hiring for something where content instincts and analytical rigor both matter, I'd like to hear about it.<br>
+  If you're hiring for something where content instincts and analytical thinking both matter, I'd like to hear about it.<br>
   <code>harsh.prabu@gmail.com</code>
 
-<sub>Also fluent in: content strategy · SEO · HubSpot · Google Analytics · Meta & Google Ads</sub>
+<sub>Also fluent in:- content strategy · SEO · HubSpot · Google Analytics · Meta & Google Ads</sub>
 
 <br>
 
