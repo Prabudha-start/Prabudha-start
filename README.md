@@ -77,6 +77,34 @@ B.E. in Chemical Engineering from M.S. Ramaiah Institute of Technology. Currentl
 <p align="center">
   If you're hiring for something where content instincts and analytical rigor both matter, I'd like to hear about it.<br>
   <code>harsh.prabu@gmail.com</code>
+</p>  <img src="https://img.shields.io/badge/-Pandas-E8A33D?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-E8A33D?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-E8A33D?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+Also still fluent in the marketing side: content strategy, SEO, HubSpot, Google Analytics, Google Ads, Meta Ads.
+
+Currently working through the IBM Data Analyst Professional Certificate to fill in the gaps around visualization and structured problem-solving.
+
+<br>
+
+## I also write, separately from all this
+
+Under **[Beyond the Resume](https://medium.com/@wordsandlogic/beyond-the-resume-6b045b48ccb6)**, I write honest, non-corporate essays about what actually happens inside a workplace: background verification calls, the parts of a career nobody puts on LinkedIn.
+
+I also wrote **"Purity Is Not the Point,"** a research piece arguing against uniform purity standards in semiconductor manufacturing, published on LinkedIn Pulse. Different subject entirely, same instinct: don't accept the standard explanation without checking it.
+
+<br>
+
+## A little background, if you're curious
+
+B.E. in Chemical Engineering from M.S. Ramaiah Institute of Technology. Currently finishing an M.A. in English through IGNOU, on the side. I like building things and writing about them in roughly equal measure, which is either a strength or a scheduling problem depending on the week.
+
+<br>
+
+<p align="center">
+  If you're hiring for something where content instincts and analytical rigor both matter, I'd like to hear about it.<br>
+  <code>harsh.prabu@gmail.com</code>
 </p>  <img src="https://img.shields.io/badge/-Excel-E8A33D?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-E8A33D?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
