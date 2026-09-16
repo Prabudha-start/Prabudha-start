@@ -77,10 +77,6 @@ B.E. in Chemical Engineering from M.S. Ramaiah Institute of Technology. Currentl
 <p align="center">
   If you're hiring for something where content instincts and analytical rigor both matter, I'd like to hear about it.<br>
   <code>harsh.prabu@gmail.com</code>
-</p>  <img src="https://img.shields.io/badge/-Pandas-E8A33D?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Excel-E8A33D?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-E8A33D?style=flat-square&logo=jupyter&logoColor=white" />
-</p>
 
 Also still fluent in the marketing side: content strategy, SEO, HubSpot, Google Analytics, Google Ads, Meta Ads.
 
@@ -105,9 +101,6 @@ B.E. in Chemical Engineering from M.S. Ramaiah Institute of Technology. Currentl
 <p align="center">
   If you're hiring for something where content instincts and analytical rigor both matter, I'd like to hear about it.<br>
   <code>harsh.prabu@gmail.com</code>
-</p>  <img src="https://img.shields.io/badge/-Excel-E8A33D?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-E8A33D?style=flat-square&logo=jupyter&logoColor=white" />
-</p>
 
 <sub>Also fluent in: content strategy · SEO · HubSpot · Google Analytics · Meta & Google Ads</sub>
 
