@@ -88,14 +88,6 @@ Currently working through the IBM Data Analyst Professional Certificate to fill 
 
 <sub>Also fluent in:- content strategy · SEO · HubSpot · Google Analytics · Meta & Google Ads</sub>
 
-<br>
-
-### `04` — Writing
-
-I write reflective essays on workplace experience under **[Beyond the Resume](https://medium.com/@wordsandlogic/beyond-the-resume-6b045b48ccb6)** — where marketing craft meets honest career reflection.
-
-<br>
-
 <div align="center">
 
 `harsh.prabu@gmail.com` · [LinkedIn](https://linkedin.com/in/prabudha-darabare/) · [Medium](https://medium.com/@wordsandlogic)
